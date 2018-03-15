@@ -1,0 +1,6 @@
+E:\VS CODe\RedPack\RedPack\bin\Debug\RedPack.exe.config
+E:\VS CODe\RedPack\RedPack\bin\Debug\RedPack.exe
+E:\VS CODe\RedPack\RedPack\bin\Debug\RedPack.pdb
+E:\VS CODe\RedPack\RedPack\obj\Debug\RedPack.csprojResolveAssemblyReference.cache
+E:\VS CODe\RedPack\RedPack\obj\Debug\RedPack.exe
+E:\VS CODe\RedPack\RedPack\obj\Debug\RedPack.pdb
